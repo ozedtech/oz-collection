@@ -3,6 +3,11 @@
 body{
     background-color: rgba(194, 237, 250, 0.966);
 }
+@media (max-width:400px){
+    body{
+        font-size: 0.8rem;
+    }
+}
 .footer{
     background-color: rgb(68, 63, 63);
     color: honeydew;
